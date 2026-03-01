@@ -1,1 +1,1 @@
-This is my repostitory to host my data science project.
+This is my repository to host my data science project.
